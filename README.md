@@ -1,2 +1,3 @@
-# Leo-web-v1.01-
-Lead Developer Leo Lou's repository
+# Hello
+Welcome to my repository
+Where we will create fun and awesome things together
